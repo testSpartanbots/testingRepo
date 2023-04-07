@@ -1,2 +1,0 @@
-document 1 for testing first commit
-commit 2 for changed email
